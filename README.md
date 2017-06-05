@@ -1,20 +1,13 @@
-Ionic App Base
-=====================
+#爱记账APP项目说明
+```
+爱记账APP使用到的技术有：angular2，ionic2，cordova，数据保存使用ionic的storage技术
 
-This is the base template for Ionic starter apps.
-
-## Using this project
-
-Install the latest Ionic CLI:
-
-```bash
-$ npm install -g ionic
+#使用本项目
+1.安装依赖包
+```
+$ npm install
 ```
 
-Then run:
-
-```bash
-$ ionic start myApp
+2.启动项目
 ```
-
-More info on this can be found on the Ionic [Getting Started](http://ionicframework.com/docs/v2/getting-started/) page.
+$ ionic serve
